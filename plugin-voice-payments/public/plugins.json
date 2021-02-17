@@ -1,0 +1,13 @@
+[
+  {
+    "name": "plugin-voice-payments",
+    "version": "0.0.0",
+    "class": "VoicePaymentsPlugin",
+    "requires": [
+      {
+        "@twilio/flex-ui": "^1"
+      }
+    ],
+    "src": "http://localhost:3000/plugin-voice-payments.js"
+  }
+]
